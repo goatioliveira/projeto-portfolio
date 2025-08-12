@@ -152,4 +152,9 @@ body {
     width: 75%;
 }
 
+.principal__foto {
+    width: 75%;
+    border-radius: 15px;
+}
+
 }
